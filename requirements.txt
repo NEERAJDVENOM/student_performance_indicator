@@ -2,4 +2,7 @@ pandas
 numpy 
 seaborn
 matplotlib
--e .
+ydata_profiling
+scikit-learn
+# -e .
+
